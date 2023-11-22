@@ -1,3 +1,3 @@
-mock up website Hotel version 1
+Website Tongna Resort
 
 start npm start
